@@ -66,7 +66,7 @@
   ?>
   <div class="container">
     <div class="logo">
-      <img src="image7.png" alt="logo" width="300px">
+      <img src="../iages/image7.png" alt="logo" width="300px">
     </div>
     <div class="top">
       Sign Up!
